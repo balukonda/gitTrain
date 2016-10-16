@@ -1,8 +1,3 @@
-package com.techsource.mycheck.service;
-
-import java.io.Serializable;
-
-import org.springframework.stereotype.Service;
 
 import com.techsource.mycheck.repository.UserRepository;
 
