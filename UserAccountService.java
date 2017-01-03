@@ -1,7 +1,4 @@
-#####test-Balaji123
-import com.techsource.mycheck.repository.UserRepository;
-import com.techsource.mycheck;
-
+#####Demo in GIt to adapt
 @Service
 public class UserAccountService implements Serializable {
 
